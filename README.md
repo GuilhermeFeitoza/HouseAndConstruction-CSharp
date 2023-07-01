@@ -2,10 +2,15 @@
 [C#/SQL SERVER]  Projeto de conclusão de curso onde foi desenvolvido uma aplicação de gestão,onde a tarefa era facilitar as rotinas diárias de uma loja de materiais para construção
 
 Tela de login
+
 ![image](https://github.com/GuilhermeFeitoza/HouseAndConstruction-Desktop/assets/40674855/8bf23b6d-2c9a-4239-8f8d-25ee54a39ca2)
+
+
 
 Tela principal(Menu)
 ![image](https://github.com/GuilhermeFeitoza/HouseAndConstruction-Desktop/assets/40674855/6318df9b-054c-4a64-90b0-daa19e5bfdda)
+
+
 
 Relatório de produtos com estoque baixo
 ![image](https://github.com/GuilhermeFeitoza/HouseAndConstruction-Desktop/assets/40674855/6fc2a1e5-3430-4243-a2bf-f17441246021)
