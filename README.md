@@ -7,8 +7,11 @@ Tela de login
 Tela principal(Menu)
 ![image](https://github.com/GuilhermeFeitoza/HouseAndConstruction-Desktop/assets/40674855/6318df9b-054c-4a64-90b0-daa19e5bfdda)
 
-Menu de clientes
+Relatório de produtos com estoque baixo
+![image](https://github.com/GuilhermeFeitoza/HouseAndConstruction-Desktop/assets/40674855/6fc2a1e5-3430-4243-a2bf-f17441246021)
 
+
+Menu de clientes
 ![image](https://github.com/GuilhermeFeitoza/HouseAndConstruction-Desktop/assets/40674855/1b3497bd-d49a-40c4-8710-97faddb13f59)
 
 Cadastro
